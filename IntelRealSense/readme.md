@@ -1,4 +1,4 @@
-﻿# Box dimensions calculation using multiple realsense camera
+﻿# Lab Assignment - Detect Object 3D coordinates and dimensions with respect to World Coordinate System
 
 ## Requirements: 
 ### Python Version
