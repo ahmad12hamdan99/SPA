@@ -26,7 +26,7 @@ This code demonstrates the ability to solve a simple task such as dimension calc
 ## Example Output
 Once the calibration is done and the target object's dimensions are calculated, the application will open a window displaying a color image along with an overlay of the calculated bounding box.
 
-[sampleSetupAndOutput](https://github.com/IntelRealSense/librealsense/blob/master/wrappers/python/examples/box_dimensioner_multicam/samplesetupandoutput.jpg)
+[Video Output](https://github.com/ahmad12hamdan99/SPA/blob/main/IntelRealSense/video.mp4)
 
 ## References
 [InteleRealsense Library](https://github.com/IntelRealSense/librealsense.git)
