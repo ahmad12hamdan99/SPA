@@ -25,6 +25,7 @@ This code demonstrates the ability to solve a simple task such as dimension calc
 
 ## Example Output
 Once the calibration is done and the target object's dimensions are calculated, the application will open a window displaying a color image along with an overlay of the calculated bounding box.
+![alt text](https://github.com/ahmad12hamdan99/SPA/blob/main/IntelRealSense/detected.png)
 
 [Video Output](https://github.com/ahmad12hamdan99/SPA/blob/main/IntelRealSense/video.mp4)
 
